@@ -105,7 +105,7 @@ image = Image.open('project 2.png')
 st.image(image, caption='Top 25 Movies Sorted by Score')
 
 st.write(
-  "This graph shows that The Shawnshank Redemption was the highest scored movie in the top
+  "This graph shows that The Shawnshank Redemption was the highest scored movie in the top")
 
   
 
