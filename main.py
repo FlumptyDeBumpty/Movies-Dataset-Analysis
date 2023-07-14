@@ -40,7 +40,7 @@ image = Image.open('Top 10 Actors.png')
 st.image(
   image,
   caption=
-  'The Top 10 actors based on how many Movies they have starred in. (Taken by Isaac)'
+  'The top 10 actors based on the added scores of the movies they have starred in. (Taken by Isaac)'
 )
 
 st.write(
