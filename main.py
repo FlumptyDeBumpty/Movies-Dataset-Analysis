@@ -44,7 +44,7 @@ st.image(
 )
 
 st.write(
-  "This graph shows us that movies that Robert De Niro, Mel Gibson, and Tom Hanks star in have a tendency to score high score. "
+  "This graph shows us that movies that Woody Allen, Clint Eastwood, and Barry Levinson have directed tend to have a high score."
 )
 
 image = Image.open('Top 10 Directors.png')
