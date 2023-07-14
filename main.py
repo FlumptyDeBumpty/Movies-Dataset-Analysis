@@ -52,7 +52,7 @@ image = Image.open('Top 10 Directors.png')
 st.image(
   image,
   caption=
-  'The Top 10 directors based on how many movies they have directed. (Taken by Isaac)'
+  'The top 10 directors based on score of the movies they have directed. (Taken by Isaac)'
 )
 
 st.write(
